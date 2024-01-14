@@ -2,6 +2,8 @@
 
 [![Netology AHJ](https://github.com/natalia-smyslova/hex2rgb/actions/workflows/web.yml/badge.svg)](https://github.com/natalia-smyslova/hex2rgb/actions/workflows/web.yml)
 
+[ДЕМО](https://natalia-smyslova.github.io/hex2rgb/)
+
 Конвертер цветов из HEX в RGB
 ===
 
